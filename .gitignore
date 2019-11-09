@@ -1,0 +1,4 @@
+.stack-work/
+abt.cabal
+*.aux
+*.log
